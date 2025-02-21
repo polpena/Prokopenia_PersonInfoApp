@@ -1,6 +1,3 @@
-using System;
-using System.Threading.Tasks;
-using System.Windows.Controls;
 using System.Windows;
 
 namespace PersonInfoApp.Models

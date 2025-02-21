@@ -1,10 +1,6 @@
-﻿using System;
-using System.ComponentModel;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using System.ComponentModel;
 using System.Windows.Input;
 using PersonInfoApp.Models;
-using CommunityToolkit.Mvvm.Input;
 
 namespace PersonInfoApp.ViewModels
 {

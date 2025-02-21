@@ -1,5 +1,3 @@
-using System;
-
 namespace PersonInfoApp.Models
 {
     public static class ZodiacCalculator
